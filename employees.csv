@@ -6,4 +6,4 @@ EmployeeID,Name,Department,Age,Experience,Salary,PerformanceScore,Remote,JoinYea
 105,Eva,AI,40,12,150000,95,True,2013
 106,Frank,Backend,29,4,80000,82,False,2020
 107,Grace,Frontend,31,6,90000,89,True,2018
-108,Hannah,AI,27,3,72000,91,True,2021
+108,Hannah,AI,27,3,70000,91,True,2021
